@@ -1,6 +1,7 @@
 # isc-design-pattern-kadai
 
 学校の課題
-Java じゃなくて JS・Python で書かせてくださいお願いします
+Java じゃなくて JavaScript(TypeScript)・Python で書かせてくださいお願いします。
 
-1. singleton
+1.  singleton
+2.  iterator
