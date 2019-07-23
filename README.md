@@ -10,6 +10,7 @@ JavaじゃなくてTypeScript or Pythonで書かせてくださいお願いし�
 3.  state
 4.  factory-method
 5.  observer
+6.  adapter
 
 # 実行環境
 
